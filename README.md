@@ -22,9 +22,20 @@ Donde el elemento que muestra de manera visual la forma de cada uno es atravez d
 Se opto por un diseño simple sin tantos elementos pensando en no generar confución y teniendo como punto de apoyo el no dar más de un objeto interactivo por ciclo.
 ## ⚙️ b) Proceso de Desarrollo
 ### ¿Cómo construyeron el mundo?
-Pirmero se planteo varios temas entre ellos la reprecentación de suma de vectores, o una claculadora y planteando diferentes formas de ejcutar cada uno se escojio representar los ciclos basicos en programación por lo que estos abarcan en la carrera y al mismo tiempo fue el que se considero más optimo para la optativa.
+Primero se planteo varios temas entre ellos la reprecentación de suma de vectores, o una claculadora y planteando diferentes formas de ejcutar cada uno se escojio representar los ciclos basicos en programación por lo que estos abarcan en la carrera y al mismo tiempo fue el que se considero más optimo para la optativa.
 ### ¿Qué herramientas utilizaron?
-erick, pones los elementos y si usaste algun comando.
+Elementos usados para la logica dentro de minecraft:
+Linterna de Redstone
+Plovo de Redstone
+Comparador de Redstone
+Repetidor de Redstone
+Tolvas
+Palancas
+Panel solar
+Pistones pegajosos
+Observador
+Dispensador
+Antorcha de Redstone
 ### ¿Qué desafíos encontraron y cómo los resolvieron?
 1. La representación de los ciclos fue en parte la mayor dificultad estose soluciono más que nada a base de prueba y error y de intentar diferentes ideas para la representación de los ciclos hasta encontar la más entendible.
 2. La sintaxis y forma de juego de minecraft tambien resulto ser una dificultad para 2 o 3 integrantes tuvieron dificultad al intentar usar minecraft. Se decidio que una sola persona se encargara de hacer el mundo de minecraft y el trabajo restante se dividio entre los demas mienbros.
