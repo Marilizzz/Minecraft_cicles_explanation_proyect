@@ -34,10 +34,8 @@ erick, pones los elementos y si usaste algun comando.
 * **Semana 3:** Se elige tema definitivo y se mejora segun las pruebas.
 * **Semana 4:** Arreglos de estetica y logica inicio de la documentación
 ---
-
-## ⌨️ c) Investigación del Reto ASCII
-Análisis y viabilidad del reto
----
-
-### Resumen de la Parte (d) - Control de Versiones
-Erick, describe como entrar al mundo de minecraft.
+  
+  ### Resumen de la Parte (d) - Control de Versiones
+  Vesion utilizada: Minecraft 1.21.10 java
+  Ip del servidor donde esta el mapa:iErickJaja-7ZY9.exaroton.me
+  Se puede ingresar a este en cualquier momento.
