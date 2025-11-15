@@ -1,5 +1,9 @@
 # Optativa2: explicación de ciclos de programación atravez de Minecraft
-
+Team Chilemorron
+Aldo Hernández Paz
+Erick Eduardo Macías Rodriguez
+Johana Guadalupe Barco Pacheco
+Mariana Lizette Mendez Perez
 Basándose en el mundo virtual que eligimos(,inecraft), se creo una experiencia interactiva donde los principios de los ciclos usados en programación se representaran de 
 manera clara y explícita dentro del mundo virtual.
 Lo más importante: el mundo debe ser autoexplicativo.
